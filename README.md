@@ -1,13 +1,16 @@
-# Personal Creative Endeavor & Independent Technical Portfolio
+# DigiDreamWeaver | Independent Engineering & Creative Portfolio
+
+### Developed & Curated by Miranda Komorny
 
 [![Creative Portfolio](https://img.shields.io/badge/focus-creative_endeavor_%26_portfolio-purple.svg)](https://github.com/mkomorny)
+[![Creator](https://img.shields.io/badge/creator-Miranda%20Komorny-blueviolet.svg)](https://github.com/mkomorny)
 [![Automated Release](https://img.shields.io/badge/distribution-automated_batch_pipeline-blue.svg)](https://github.com/mkomorny)
 [![Build Automation](https://img.shields.io/badge/sync-scheduled_ci_bot-informational.svg)](https://github.com/mkomorny)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
-> **Welcome to my personal creative laboratory and technical portfolio!**
+> **Welcome to the DigiDreamWeaver laboratory and personal technical portfolio of Miranda Komorny!**
 > 
-> This profile represents an **independent creative endeavor and technical portfolio**, serving as a personal sandbox for exploring audio DSP engineering, browser-based WebAudio suites, autonomous AI agent architectures, procedural vector graphics, and developer tooling.
+> This profile represents an **independent creative endeavor and personal technical portfolio**, serving as an experimental sandbox for exploring audio DSP engineering, browser-based WebAudio suites, autonomous AI agent architectures, procedural vector graphics, and developer tooling.
 > 
 > All software, experimental prototypes, and research tools cataloged here are independent personal projects developed outside of professional employment, published for technical evaluation, learning, and open creative collaboration.
 
@@ -51,6 +54,17 @@
 - [**`docs-database-parser`**](https://github.com/mkomorny/docs-database-parser) — Automated source-to-database documentation pipeline compiling technical guides into SQLite FTS5 and Parquet reference knowledge bases.
 - [**`youtube-tutorial-capture-engine`**](https://github.com/mkomorny/youtube-tutorial-capture-engine) — Automated video-to-tutorial pipeline extracting timestamps, high-resolution keyframe screenshots, and publication-grade PDFs.
 - [**`web-documentation-crawler`**](https://github.com/mkomorny/web-documentation-crawler) — Robots.txt-compliant technical documentation crawler and archiver converting nested multi-page user manuals into offline PDF books.
+
+---
+
+### 👤 About the Creator
+
+**DigiDreamWeaver** is the independent software development and creative computing label founded and engineered by **Miranda Komorny**.
+
+- **Creator & Lead Developer**: Miranda Komorny
+- **Creative Label**: DigiDreamWeaver
+- **Focus**: WebAudio DSP, audio engineering algorithms, autonomous agent frameworks, and generative interfaces.
+- **GitHub**: [github.com/mkomorny](https://github.com/mkomorny)
 
 ---
 
